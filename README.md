@@ -1,6 +1,3 @@
-Perfeito — aqui vai um **README.md completo, bem apresentado e alinhado com o artigo científico**.
-Você pode **copiar e colar direto no GitHub**.
-
 ---
 
 # 🧠 Simulação de Fluxo de Pessoas com Autômatos Celulares
